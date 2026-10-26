@@ -23,3 +23,8 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 - [What is a GPU Kernel?](https://theaiengineer.substack.com/p/what-is-a-gpu-kernel)
 - [A Crash Course in Verifying Agent Code](https://theaiengineer.substack.com/p/a-crash-course-in-verifying-agent)
 <!-- BLOG-POST-LIST:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paolo-perrone/paolo-perrone/output/snake-dark.svg">
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/paolo-perrone/paolo-perrone/output/snake.svg">
+</picture>
