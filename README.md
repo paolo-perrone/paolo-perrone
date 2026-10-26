@@ -9,13 +9,13 @@
 
 </div>
 
-I write [The AI Engineer](https://theaiengineer.substack.com/), twice-weekly breakdowns of agents, inference and GPUs, read by 35K+ engineers at NVIDIA, Google, Anthropic, Meta and OpenAI. I'm also writing *AI Inference Engineering* for Manning.
+I write [The AI Engineer](https://theaiengineer.substack.com/), twice-weekly breakdowns of agents, inference and GPUs, read by 35K+ engineers at NVIDIA, Anthropic and OpenAI. I'm also writing *AI Inference Engineering* for Manning.
 
 I spent 8 years as an ML engineer, most of them building Prediktiva, the first data science agency in Latin America, which I founded and which was acquired in 2024. Before ML, I started out in investment banking.
 
-<a href="https://theaiengineer.substack.com/"><img src="https://img.shields.io/badge/The%20AI%20Engineer-35K%2B%20readers-044AFB?style=for-the-badge&logo=substack&logoColor=white" alt="The AI Engineer, 35K+ readers"></a>
-<a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-130K%2B%20followers-044AFB?style=for-the-badge" alt="LinkedIn, 130K+ followers"></a>
-<a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-044AFB?style=for-the-badge&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
+<a href="https://theaiengineer.substack.com/"><img src="https://img.shields.io/badge/The%20AI%20Engineer-35K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=substack&logoColor=white" alt="The AI Engineer, 35K+ readers"></a>
+<a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-130K%2B%20followers-6e7781?style=for-the-badge&labelColor=044AFB" alt="LinkedIn, 130K+ followers"></a>
+<a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
 
 **Start here:** [Latest issues](#-latest-from-the-ai-engineer) · [The book](#-the-book) · [Work with me](#-work-with-me) · [Open source](#️-open-source)
 
@@ -35,16 +35,13 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 
 ## 📕 The book
 
-*AI Inference Engineering: Serving LLMs in Production*, for Manning. How a request becomes tokens, and what it costs at every layer: GPUs, kernels, batching, KV cache, speculative decoding and the serving stack. The companion code lives in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering).
+I'm writing *AI Inference Engineering: Serving LLMs in Production* for Manning: how a request becomes tokens, and what each layer costs, from GPUs and kernels to batching, KV cache and speculative decoding. The companion code is public in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering) while I write.
 
 <br>
 
 ## 🤝 Work with me
 
-If you build for AI engineers, I can put your product in front of 1M+ of them across The AI Engineer, LinkedIn and Data Science Collective, in content they actually read.
-
-- **Reach**: 1M+ AI and ML engineers across three platforms.
-- **Track record**: 100+ AI companies, including the teams below.
+If you build for AI engineers, I can put your product in front of 1M+ of them, in content they actually read. NVIDIA has sponsored my posts for 2 years, and 100+ AI companies have done the same, including the teams below.
 
 <div align="center">
 
