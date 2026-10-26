@@ -6,8 +6,12 @@ import xml.etree.ElementTree as ET
 FEED = "https://theaiengineer.substack.com/feed"
 SKIP = re.compile(r"/p/(hardware-and-inference|rag-and-search|the-ai-engineer-courses)")
 
-req = urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"})
-root = ET.fromstring(urllib.request.urlopen(req, timeout=30).read())
+import subprocess
+xml = subprocess.run(["curl", "-sfL", "--compressed", "-A",
+                      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+                      "-H", "Accept: application/rss+xml,application/xml;q=0.9,*/*;q=0.8", FEED],
+                     capture_output=True, check=True).stdout
+root = ET.fromstring(xml)
 items = [i for i in root.findall("./channel/item") if not SKIP.search(i.findtext("link"))][:5]
 lines = "\n".join(f"- [{i.findtext('title').strip()}]({i.findtext('link').strip()})" for i in items)
 
