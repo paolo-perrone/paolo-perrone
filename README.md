@@ -1,21 +1,28 @@
-### Hi, I'm Paolo
+<div align="center">
+
+<a href="https://github.com/paolo-perrone">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Paolo Perrone. Production AI: agents, inference, GPUs." width="100%">
+</picture>
+</a>
+
+</div>
 
 I write [The AI Engineer](https://theaiengineer.substack.com/), twice-weekly breakdowns of agents, inference and GPUs, read by 35K+ engineers at NVIDIA, Google, Anthropic, Meta and OpenAI. I'm also writing *AI Inference Engineering* for Manning.
 
-I spent 8 years as an ML engineer, most of them building Prediktiva, the first data science agency in Latin America, which I founded and which was acquired in 2024. We shipped fraud detection, credit scoring and ETA prediction to production. Before ML, I started out in investment banking. Now I write full time, and 100+ AI companies, including NVIDIA, Google, AWS and LangChain, have partnered with me to reach 1M+ engineers.
+I spent 8 years as an ML engineer, most of them building Prediktiva, the first data science agency in Latin America, which I founded and which was acquired in 2024. Before ML, I started out in investment banking.
 
-📖 **Read me:** [The AI Engineer](https://theaiengineer.substack.com/) · [LinkedIn](https://www.linkedin.com/in/paoloperrone) · [Medium](https://medium.com/@paoloperrone)<br>
-🤝 **Work with me:** [Portfolio](https://paoloperrone.com) · [Partner with me](https://tally.so/r/laadRX)
+<a href="https://theaiengineer.substack.com/"><img src="https://img.shields.io/badge/The%20AI%20Engineer-35K%2B%20readers-044AFB?style=for-the-badge&logo=substack&logoColor=white" alt="The AI Engineer, 35K+ readers"></a>
+<a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-130K%2B%20followers-044AFB?style=for-the-badge" alt="LinkedIn, 130K+ followers"></a>
+<a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-044AFB?style=for-the-badge&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
 
-**Tools from the newsletter you can run today**
+**Start here:** [Latest issues](#-latest-from-the-ai-engineer) · [The book](#-the-book) · [Work with me](#-work-with-me) · [Open source](#️-open-source)
 
-- **Inference:** [spec-window](https://github.com/paolo-perrone/spec-window) finds the batch size where speculative decoding stops paying on your vLLM server. [boxfit](https://github.com/paolo-perrone/boxfit) tells you whether your model fits an RTX 5090, a Mac Studio or a DGX Spark, and how fast it runs.
-- **GPUs:** [cuda-stack-check](https://github.com/paolo-perrone/cuda-stack-check) names the layer breaking your PyTorch CUDA stack. [kernel-trace-check](https://github.com/paolo-perrone/kernel-trace-check) names the one lever your step time points at. Neither needs a GPU.
-- **Agents:** [agent-harness](https://github.com/paolo-perrone/agent-harness) builds the 5 layers of a harness, each with the failure it prevents. [agent-crash-recovery](https://github.com/paolo-perrone/agent-crash-recovery) kills the same agent mid-run on LangGraph, Inngest, DBOS and Temporal.
-- **RAG:** [chunk-position-check](https://github.com/paolo-perrone/chunk-position-check) shows which prompt slot your model reads worst. [transformer-xray](https://github.com/paolo-perrone/transformer-xray) shows whether an answer came from your context or from training.
-- **From scratch:** [gpt2-by-hand](https://github.com/paolo-perrone/gpt2-by-hand) runs GPT-2 small in plain numpy and matches Hugging Face to within 0.0007.
+<br>
 
-**Latest from The AI Engineer**
+## 📖 Latest from The AI Engineer
+
 <!-- BLOG-POST-LIST:START -->
 - [What is a Transformer?](https://theaiengineer.substack.com/p/what-is-a-transformer)
 - [Continuous Batching vs Speculative Decoding](https://theaiengineer.substack.com/p/continuous-batching-vs-speculative)
@@ -23,3 +30,56 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 - [What is a GPU Kernel?](https://theaiengineer.substack.com/p/what-is-a-gpu-kernel)
 - [A Crash Course in Verifying Agent Code](https://theaiengineer.substack.com/p/a-crash-course-in-verifying-agent)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## 📕 The book
+
+*AI Inference Engineering: Serving LLMs in Production*, for Manning. How a request becomes tokens, and what it costs at every layer: GPUs, kernels, batching, KV cache, speculative decoding and the serving stack. The companion code lives in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering).
+
+<br>
+
+## 🤝 Work with me
+
+If you build for AI engineers, I can put your product in front of 1M+ of them across The AI Engineer, LinkedIn and Data Science Collective, in content they actually read.
+
+- **Reach**: 1M+ AI and ML engineers across three platforms.
+- **Track record**: 100+ AI companies, including the teams below.
+
+<div align="center">
+
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/nvidia-dark.svg"><img src="assets/logos/nvidia-light.svg" height="36" alt="NVIDIA"></picture><br><sub>NVIDIA</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/google-dark.svg"><img src="assets/logos/google-light.svg" height="36" alt="Google"></picture><br><sub>Google</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/microsoft-dark.svg"><img src="assets/logos/microsoft-light.svg" height="36" alt="Microsoft"></picture><br><sub>Microsoft</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/aws-dark.svg"><img src="assets/logos/aws-light.svg" height="36" alt="AWS"></picture><br><sub>AWS</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg"><img src="assets/logos/vercel-light.svg" height="36" alt="Vercel"></picture><br><sub>Vercel</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/atlassian-dark.svg"><img src="assets/logos/atlassian-light.svg" height="36" alt="Atlassian"></picture><br><sub>Atlassian</sub> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mongodb-dark.svg"><img src="assets/logos/mongodb-light.svg" height="36" alt="MongoDB"></picture><br><sub>MongoDB</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/redis-dark.svg"><img src="assets/logos/redis-light.svg" height="36" alt="Redis"></picture><br><sub>Redis</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/langchain-dark.svg"><img src="assets/logos/langchain-light.svg" height="36" alt="LangChain"></picture><br><sub>LangChain</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/sentry-dark.svg"><img src="assets/logos/sentry-light.svg" height="36" alt="Sentry"></picture><br><sub>Sentry</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/coderabbit-dark.svg"><img src="assets/logos/coderabbit-light.svg" height="36" alt="CodeRabbit"></picture><br><sub>CodeRabbit</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/airtable-dark.svg"><img src="assets/logos/airtable-light.svg" height="36" alt="Airtable"></picture><br><sub>Airtable</sub> |
+
+**[Partner with me](https://tally.so/r/laadRX)** &nbsp;·&nbsp; [Portfolio](https://paoloperrone.com)
+
+</div>
+
+<br>
+
+## 🛠️ Open source
+
+Each repo is the companion to an issue of The AI Engineer: one failure from production, made small enough to run in a minute.
+
+| Repository | What it shows you |
+| :--- | :--- |
+| **[agent-harness](https://github.com/paolo-perrone/agent-harness)** | The 5 layers of an agent harness, each with the failure it prevents. Runs with no API key. |
+| **[agent-crash-recovery](https://github.com/paolo-perrone/agent-crash-recovery)** | The same agent on LangGraph, Inngest, DBOS and Temporal. Kill it mid-run and see which steps you pay for twice. |
+| **[self-host-boundaries](https://github.com/paolo-perrone/self-host-boundaries)** | A self-hosted LLM stack broken on purpose, one failure per boundary, to test your pre-flight checks. |
+| **[gpt2-by-hand](https://github.com/paolo-perrone/gpt2-by-hand)** | GPT-2 small in plain numpy, block by block, matching Hugging Face to within 0.0007. |
+| **[boxfit](https://github.com/paolo-perrone/boxfit)** | Whether your model fits an RTX 5090, a Mac Studio or a DGX Spark, and how fast it runs. |
+| **[spec-window](https://github.com/paolo-perrone/spec-window)** | The batch size where speculative decoding stops paying on your vLLM server, from one /metrics scrape. |
+
+**Smaller tools:** [cuda-stack-check](https://github.com/paolo-perrone/cuda-stack-check) (the layer breaking your PyTorch CUDA stack) · [kernel-trace-check](https://github.com/paolo-perrone/kernel-trace-check) (the one lever your step time points at) · [chunk-position-check](https://github.com/paolo-perrone/chunk-position-check) (the prompt slot your model reads worst) · [transformer-xray](https://github.com/paolo-perrone/transformer-xray) (context or training: where an answer came from)
+
+<br>
+
+## ⭐ Keep it free
+
+Everything here is free to read and run. Three ways to keep it that way:
+
+- **Star** the repos you use. It's how other engineers find them.
+- **Share** a tool or an issue with your team.
+- **Sponsor** the work through the Sponsor button on any of my repos, or [partner with me](https://tally.so/r/laadRX) on a piece.
