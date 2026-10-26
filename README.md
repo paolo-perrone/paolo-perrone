@@ -17,11 +17,11 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 <a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-130K%2B%20followers-6e7781?style=for-the-badge&labelColor=044AFB" alt="LinkedIn, 130K+ followers"></a>
 <a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
 
-**Start here:** [Latest issues](#-latest-from-the-ai-engineer) · [The book](#-the-book) · [Work with me](#-work-with-me) · [Open source](#️-open-source)
+**Start here:** [Latest Issues](#-latest-from-the-ai-engineer) · [The Book](#-the-book-ai-inference-engineering) · [Work With Me](#-work-with-me) · [Open Source](#️-open-source)
 
 <br>
 
-## 📖 Latest from The AI Engineer
+## 📖 Latest From The AI Engineer
 
 <!-- BLOG-POST-LIST:START -->
 - [What is a Transformer?](https://theaiengineer.substack.com/p/what-is-a-transformer)
@@ -33,13 +33,13 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 
 <br>
 
-## 📕 The book
+## 📕 The Book: AI Inference Engineering
 
-I'm writing *AI Inference Engineering: Serving LLMs in Production* for Manning: how a request becomes tokens, and what each layer costs, from GPUs and kernels to batching, KV cache and speculative decoding. The companion code is public in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering) while I write.
+I'm writing it for Manning, subtitled *Serving LLMs in Production*: how a request becomes tokens, and what each layer costs, from GPUs and kernels to batching, KV cache and speculative decoding. The companion code is public in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering) while I write.
 
 <br>
 
-## 🤝 Work with me
+## 🤝 Work With Me
 
 If you build for AI engineers, I can put your product in front of 1M+ of them, in content they actually read. NVIDIA has sponsored my posts for 2 years, and 100+ AI companies have done the same, including the teams below.
 
@@ -56,7 +56,7 @@ If you build for AI engineers, I can put your product in front of 1M+ of them, i
 
 <br>
 
-## 🛠️ Open source
+## 🛠️ Open Source
 
 Each repo is the companion to an issue of The AI Engineer: one failure from production, made small enough to run in a minute.
 
@@ -73,7 +73,7 @@ Each repo is the companion to an issue of The AI Engineer: one failure from prod
 
 <br>
 
-## ⭐ Keep it free
+## ⭐ Keep It Free
 
 Everything here is free to read and run. Three ways to keep it that way:
 
