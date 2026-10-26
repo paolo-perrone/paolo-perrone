@@ -35,20 +35,20 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 
 ## 📕 The Book: AI Inference Engineering
 
-I'm writing it for Manning, subtitled *Serving LLMs in Production*: how a request becomes tokens, and what each layer costs, from GPUs and kernels to batching, KV cache and speculative decoding. The companion code is public in [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering) while I write.
+My book with Manning on serving LLMs in production: how a request becomes tokens and what every layer costs, from GPUs and kernels to batching, KV cache and speculative decoding. Companion code: [ai-inference-engineering](https://github.com/paolo-perrone/ai-inference-engineering).
 
 <br>
 
 ## 🤝 Work With Me
 
-If you build for AI engineers, I can put your product in front of 1M+ of them, in content they actually read. NVIDIA has sponsored my posts for 2 years, and 100+ AI companies have done the same, including the teams below.
+Put your product in front of 1M+ AI engineers. NVIDIA has sponsored my work for 3 years, and Microsoft, Google, AWS and 100+ AI companies have run campaigns with me.
 
 <div align="center">
 
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/nvidia-dark.svg"><img src="assets/logos/nvidia-light.svg" height="36" alt="NVIDIA"></picture><br><sub>NVIDIA</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/google-dark.svg"><img src="assets/logos/google-light.svg" height="36" alt="Google"></picture><br><sub>Google</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/microsoft-dark.svg"><img src="assets/logos/microsoft-light.svg" height="36" alt="Microsoft"></picture><br><sub>Microsoft</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/aws-dark.svg"><img src="assets/logos/aws-light.svg" height="36" alt="AWS"></picture><br><sub>AWS</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg"><img src="assets/logos/vercel-light.svg" height="36" alt="Vercel"></picture><br><sub>Vercel</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/atlassian-dark.svg"><img src="assets/logos/atlassian-light.svg" height="36" alt="Atlassian"></picture><br><sub>Atlassian</sub> |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mongodb-dark.svg"><img src="assets/logos/mongodb-light.svg" height="36" alt="MongoDB"></picture><br><sub>MongoDB</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/redis-dark.svg"><img src="assets/logos/redis-light.svg" height="36" alt="Redis"></picture><br><sub>Redis</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/langchain-dark.svg"><img src="assets/logos/langchain-light.svg" height="36" alt="LangChain"></picture><br><sub>LangChain</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/sentry-dark.svg"><img src="assets/logos/sentry-light.svg" height="36" alt="Sentry"></picture><br><sub>Sentry</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/coderabbit-dark.svg"><img src="assets/logos/coderabbit-light.svg" height="36" alt="CodeRabbit"></picture><br><sub>CodeRabbit</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/airtable-dark.svg"><img src="assets/logos/airtable-light.svg" height="36" alt="Airtable"></picture><br><sub>Airtable</sub> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mongodb-dark.svg"><img src="assets/logos/mongodb-light.svg" height="36" alt="MongoDB"></picture><br><sub>MongoDB</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/redis-dark.svg"><img src="assets/logos/redis-light.svg" height="36" alt="Redis"></picture><br><sub>Redis</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/langchain-dark.svg"><img src="assets/logos/langchain-light.svg" height="36" alt="LangChain"></picture><br><sub>LangChain</sub> | <img src="assets/logos/llamaindex.png" height="36" alt="LlamaIndex"><br><sub>LlamaIndex</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/coderabbit-dark.svg"><img src="assets/logos/coderabbit-light.svg" height="36" alt="CodeRabbit"></picture><br><sub>CodeRabbit</sub> | <img src="assets/logos/fireworks.png" height="36" alt="Fireworks AI"><br><sub>Fireworks AI</sub> |
 
 **[Partner with me](https://tally.so/r/laadRX)** &nbsp;·&nbsp; [Portfolio](https://paoloperrone.com)
 
