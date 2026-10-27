@@ -41,7 +41,7 @@ My book with Manning on serving LLMs in production: how a request becomes tokens
 
 ## 🤝 Work With Me
 
-1M+ AI engineers read my posts. Put your product in front of them. NVIDIA has for 3 years, and 100+ AI companies have followed.
+1M+ AI engineers read my content. NVIDIA has sponsored it since 2023, and 100+ AI/ML companies have followed. Yours could be next.
 
 <div align="center">
 
