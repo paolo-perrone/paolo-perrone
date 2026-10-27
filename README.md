@@ -14,7 +14,7 @@ I write [The AI Engineer](https://theaiengineer.substack.com/), twice-weekly bre
 I spent 8 years as an ML engineer, most of them building Prediktiva, the first data science agency in Latin America, which I founded and which was acquired in 2024. Before ML, I started out in investment banking.
 
 <a href="https://theaiengineer.substack.com/"><img src="https://img.shields.io/badge/The%20AI%20Engineer-35K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=substack&logoColor=white" alt="The AI Engineer, 35K+ readers"></a>
-<a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-130K%2B%20followers-6e7781?style=for-the-badge&labelColor=044AFB" alt="LinkedIn, 130K+ followers"></a>
+<a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-141K%2B%20followers-6e7781?style=for-the-badge&labelColor=044AFB" alt="LinkedIn, 141K+ followers"></a>
 <a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
 
 **Start here:** [Latest Issues](#-latest-from-the-ai-engineer) · [The Book](#-the-book-ai-inference-engineering) · [Work With Me](#-work-with-me) · [Open Source](#️-open-source)
