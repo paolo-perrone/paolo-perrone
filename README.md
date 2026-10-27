@@ -62,14 +62,14 @@ Each repo is the companion to an issue of The AI Engineer: one failure from prod
 
 | Repository | What it shows you |
 | :--- | :--- |
-| **[agent-harness](https://github.com/paolo-perrone/agent-harness)** | The 5 layers of an agent harness, each with the failure it prevents. Runs with no API key. |
-| **[agent-crash-recovery](https://github.com/paolo-perrone/agent-crash-recovery)** | The same agent on LangGraph, Inngest, DBOS and Temporal. Kill it mid-run and see which steps you pay for twice. |
-| **[self-host-boundaries](https://github.com/paolo-perrone/self-host-boundaries)** | A self-hosted LLM stack broken on purpose, one failure per boundary, to test your pre-flight checks. |
-| **[gpt2-by-hand](https://github.com/paolo-perrone/gpt2-by-hand)** | GPT-2 small in plain numpy, block by block, matching Hugging Face to within 0.0007. |
 | **[boxfit](https://github.com/paolo-perrone/boxfit)** | Whether your model fits an RTX 5090, a Mac Studio or a DGX Spark, and how fast it runs. |
 | **[spec-window](https://github.com/paolo-perrone/spec-window)** | The batch size where speculative decoding stops paying on your vLLM server, from one /metrics scrape. |
+| **[gpt2-by-hand](https://github.com/paolo-perrone/gpt2-by-hand)** | GPT-2 small in plain numpy, block by block, matching Hugging Face to within 0.0007. |
+| **[self-host-boundaries](https://github.com/paolo-perrone/self-host-boundaries)** | A self-hosted LLM stack broken on purpose, one failure per boundary, to test your pre-flight checks. |
+| **[agent-harness](https://github.com/paolo-perrone/agent-harness)** | The 5 layers of an agent harness, each with the failure it prevents. Runs with no API key. |
+| **[agent-crash-recovery](https://github.com/paolo-perrone/agent-crash-recovery)** | The same agent on LangGraph, Inngest, DBOS and Temporal. Kill it mid-run and see which steps you pay for twice. |
 
-**Smaller tools:** [cuda-stack-check](https://github.com/paolo-perrone/cuda-stack-check) (the layer breaking your PyTorch CUDA stack) · [kernel-trace-check](https://github.com/paolo-perrone/kernel-trace-check) (the one lever your step time points at) · [chunk-position-check](https://github.com/paolo-perrone/chunk-position-check) (the prompt slot your model reads worst) · [transformer-xray](https://github.com/paolo-perrone/transformer-xray) (context or training: where an answer came from)
+**Smaller tools:** [cuda-stack-check](https://github.com/paolo-perrone/cuda-stack-check) (the layer breaking your PyTorch CUDA stack) · [kernel-trace-check](https://github.com/paolo-perrone/kernel-trace-check) (the one lever your step time points at) · [chunk-position-check](https://github.com/paolo-perrone/chunk-position-check) (the prompt slot your model reads worst) · [transformer-xray](https://github.com/paolo-perrone/transformer-xray) (context or training: where an answer came from) · [rl-post-training](https://github.com/paolo-perrone/rl-post-training) (attack any grader before it decides anything) · [red-green-check](https://github.com/paolo-perrone/red-green-check) (tells a proven bug fix from a flagged one)
 
 <br>
 
