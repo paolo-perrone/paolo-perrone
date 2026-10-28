@@ -24,11 +24,11 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 ## 📖 Latest From The AI Engineer
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac Studio vs DGX Spark vs RTX 5090](https://theaiengineer.substack.com/p/mac-studio-vs-dgx-spark-vs-rtx-5090)
 - [What is a Transformer?](https://theaiengineer.substack.com/p/what-is-a-transformer)
 - [Continuous Batching vs Speculative Decoding](https://theaiengineer.substack.com/p/continuous-batching-vs-speculative)
 - [How an AI Bug Hunter Works](https://theaiengineer.substack.com/p/how-an-ai-bug-hunter-works)
 - [What is a GPU Kernel?](https://theaiengineer.substack.com/p/what-is-a-gpu-kernel)
-- [A Crash Course in Verifying Agent Code](https://theaiengineer.substack.com/p/a-crash-course-in-verifying-agent)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
