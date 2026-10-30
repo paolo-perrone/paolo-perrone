@@ -17,7 +17,7 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 <a href="https://www.linkedin.com/in/paoloperrone"><img src="https://img.shields.io/badge/LinkedIn-141K%2B%20followers-6e7781?style=for-the-badge&labelColor=044AFB" alt="LinkedIn, 141K+ followers"></a>
 <a href="https://medium.com/@paoloperrone"><img src="https://img.shields.io/badge/Medium-962K%2B%20readers-6e7781?style=for-the-badge&labelColor=044AFB&logo=medium&logoColor=white" alt="Medium, 962K+ readers"></a>
 
-**Code merged into:**
+**Contributor to:**
 
 <a href="https://github.com/vllm-project/vllm/pull/64097"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/vllm-dark.png"><img src="assets/logos/vllm-light.png" height="28" alt="vLLM"></picture></a>
 
