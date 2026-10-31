@@ -19,7 +19,7 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 
 **Contributor to:**
 
-<a href="https://github.com/vllm-project/vllm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/vllm-dark.png"><img src="assets/logos/vllm-light.png" height="28" alt="vLLM"></picture></a>
+<a href="https://github.com/vllm-project/vllm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/vllm-dark.png"><img src="assets/logos/vllm-light.png" height="28" alt="vLLM"></picture></a> &nbsp;&nbsp; <a href="https://github.com/llm-d/llm-d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/llmd-dark.png"><img src="assets/logos/llmd-light.png" height="28" alt="llm-d"></picture></a>
 
 **Start here:** [Latest Issues](#-latest-from-the-ai-engineer) · [The Book](#-the-book-ai-inference-engineering) · [Work With Me](#-work-with-me) · [Open Source](#️-open-source)
 
