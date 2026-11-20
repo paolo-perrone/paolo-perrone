@@ -28,11 +28,11 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 ## 📖 Latest From The AI Engineer
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Voice Agent?](https://theaiengineer.substack.com/p/what-is-a-voice-agent)
 - [How a Forward Deployed Engineer Actually Works](https://theaiengineer.substack.com/p/how-a-forward-deployed-engineer-actually)
 - [What is Agentic Search?](https://theaiengineer.substack.com/p/what-is-agentic-search)
 - [How to Build an Agent Eval You Can Trust](https://theaiengineer.substack.com/p/how-to-build-an-agent-eval-you-can)
 - [Mac Studio vs DGX Spark vs RTX 5090](https://theaiengineer.substack.com/p/mac-studio-vs-dgx-spark-vs-rtx-5090)
-- [What is a Transformer?](https://theaiengineer.substack.com/p/what-is-a-transformer)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
