@@ -28,11 +28,11 @@ I spent 8 years as an ML engineer, most of them building Prediktiva, the first d
 ## 📖 Latest From The AI Engineer
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Web Search to an AI Agent With Brave](https://theaiengineer.substack.com/p/how-to-add-web-search-to-an-ai-agent)
 - [How DeepSeek Distilled R1](https://theaiengineer.substack.com/p/how-deepseek-distilled-r1)
 - [What is a Voice Agent?](https://theaiengineer.substack.com/p/what-is-a-voice-agent)
 - [How a Forward Deployed Engineer Actually Works](https://theaiengineer.substack.com/p/how-a-forward-deployed-engineer-actually)
 - [What is Agentic Search?](https://theaiengineer.substack.com/p/what-is-agentic-search)
-- [How to Build an Agent Eval You Can Trust](https://theaiengineer.substack.com/p/how-to-build-an-agent-eval-you-can)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
